@@ -1,6 +1,17 @@
 #Declaracion de la funcion
 def divicion (a,b):
     rest = a/b
+#declaracion de funcion
+def resta (a,b):
+    rest = a + b
+    return rest
+#declaracion de la funcion
+def suma (a,b):
+    rest = a+b
+    return rest 
+    
+def multiplicacion (a,b):
+    rest = a * b
     return rest
 
 def main():
