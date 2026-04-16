@@ -1,4 +1,8 @@
 #declaracion de la funcion
+def suma (a,b):
+    rest = a+b
+    return rest 
+    
 def multiplicacion (a,b):
     rest = a * b
     return rest
