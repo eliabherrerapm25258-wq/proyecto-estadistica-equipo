@@ -1,3 +1,7 @@
+#declaracion de funcion
+def resta (a,b):
+    rest = a + b
+    return rest
 #declaracion de la funcion
 def suma (a,b):
     rest = a+b
