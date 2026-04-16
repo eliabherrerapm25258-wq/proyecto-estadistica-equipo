@@ -1,3 +1,6 @@
+#Declaracion de la funcion
+def divicion (a,b):
+    rest = a/b
 #declaracion de funcion
 def resta (a,b):
     rest = a + b
