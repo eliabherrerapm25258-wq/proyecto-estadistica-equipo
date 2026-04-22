@@ -10,10 +10,22 @@ def suma (a,b):
     rest = a+b
     return rest 
     
+<<<<<<< HEAD
+"""
+realiza la suma de dos numeros:
+
+argumentos:
+a (int):primer numero a sumar
+b (int):segundo numero a sumar
+retorno:
+   (int): resultado de la suma de dos numeros
+   """
+=======
 def multiplicacion (a,b):
     rest = a * b
     return rest
 
+>>>>>>> c32b8d021c81715cd92f53e024324bfc1ba6d15b
 def main():
     print("--- Analizador de datos v1.0---")
     datos = [10,20.30,40,50,60] # datos de prueba
