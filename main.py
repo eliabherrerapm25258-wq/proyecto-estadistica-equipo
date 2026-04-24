@@ -6,12 +6,12 @@ def multiplicacion (a,b):
 """"
 Realiza la multiplicacion de dos numeros:
 
-argumentos:
-   a (int):primer numero a multiplicar
-   b (int):segundo numero a multiplicar
+Argumentos:
+   a (int): Primer numero a multiplicar.
+   b (int): Segundo numero a multiplicar.
 
-retorno:
-    (int): resultado de la multiplicacion de dos numeros
+Retorno:
+    (int): Resultado de la multiplicacion de dos numeros.
 """
 def main():
     print("--- Analizador de datos v1.0---")
